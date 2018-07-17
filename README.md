@@ -4,7 +4,7 @@ The assignment is to test your skills to, (written in priority)
 2. Ability to work with front-end frameworks like Angular, React.
 3. To integrate your front-end with APIs.
 4. Have a good eye on design, plus your ability to see forward of design.
-5. Productivity (if not you'll learn over here else you'll become better at it)
+5. Productivity. (if not you'll learn over here else you'll become better at it)
 
 
 Assignment
