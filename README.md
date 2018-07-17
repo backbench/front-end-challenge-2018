@@ -1,4 +1,4 @@
-The assignment is to test your skills to, written in priority
+The assignment is to test your skills to, (written in priority)
 
 1. To complete the given task.
 2. Ability to work with front-end frameworks like Angular, React.
