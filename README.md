@@ -32,6 +32,7 @@ You'll be provided with all necessary APIS.
  
 1. The sidebar is necessary (Preferably collapsible sidebar).
 2. You don't need to copy the UI here, take an idea from current layout only.
+3. **The submission should be over Github, so please fork this repo**. 
 
 ### Mocked Endpoints:
 
