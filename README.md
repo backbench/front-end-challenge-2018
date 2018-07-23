@@ -10,25 +10,25 @@ The assignment is to test your skills to, (written in priority)
 Assignment
 ===========
 
-Consist of 2 parts:-
+**Prerequisite**: Sign-up to https://beta-bench.backbench.io/ followed by sign-in.
+You will see a dashboard. 
 
-Prerequisite: Sign-up to https://beta-bench.backbench.io/ followed by sign-in.
-
-1. You will see a dashboard. Use your skills, make it to the next level. ( including sidebar)
+1. Now your first task is to create a dashboard similar to this.
 
 Click on My bench - create a Bench. Now select it, observe the change in the left sidebar. 
 
-2. You have to provide such functionality (change in the sidebar). You will be provided with API to list "My benches". Also, another API which describes them. So when you click on any of the item listed, there should be a change in the sidebar - along with the values printed on dashboard area.
+2. Create a UI to provide such functionality (with change in the sidebar). 
+You will be provided with API to list "My benches". Also, another API which describes them. So when you click on any of the item listed, there should be a change in the sidebar - along with the values printed on dashboard area.
 
 You'll be provided with all necessary APIS.
 
-Advantage point: 
+### Advantage point: 
 
 1. A Back button for navigating to My Bench page from point #2, which shows you the dashboard you created on #1, along with the sidebar first appeared.
 
 2. To be provided on request  :)
 
-Note:
+### Note:
  
 1. The sidebar is necessary (Preferably collapsible sidebar).
 2. You don't need to copy the UI here, take an idea from current layout only.
